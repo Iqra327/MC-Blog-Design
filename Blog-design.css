@@ -1,0 +1,101 @@
+.navbar{
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+   }
+    .navbar-nav li a{
+        font-size:16px;
+        font-weight:400;
+        margin-top:7px;
+        padding:0px;
+        font-family: Poppins , sans-serif;
+        color: #3a3a3a !important;
+    }
+    .navbar-nav li a:hover{
+      color:rgb(85, 197, 159) !important;
+    }
+    .main-btn{
+        border-radius:6px;
+        border-width:0.800px;
+        background-color:rgb(85, 159, 48);
+        color:white;
+        border-style:solid;
+        padding-top:5px;
+        padding-bottom:5px;
+        padding-left:16px;
+        padding-right:16px;
+        font-size:18px;
+    }
+    .main-btn:hover{
+        background-color: black;
+        transition:0.42s;
+    }
+    .navbar-toggler{
+      color:rgb(85, 159, 48) !important;
+      border-style: none;
+    }
+    .H1{
+      background-color: #eee;
+      color:rgb(117, 189, 187);
+      font-size:40px;
+    }
+    .search-bar{
+      background-color: #FAFAFA;
+    }
+    .Bar{
+      background-color: #FAFAFA;
+    }
+    
+    .Info-Us li a, .Info-Us li{
+      list-style:none;
+     text-decoration: none;
+     color:#DDDDDD !important;
+    }
+    body{
+      background-color: #FAFAFA;
+      font-family: Poppins, sans-serif;
+    }
+    .heading-text{
+      font-size: 22px;
+      color:#3a3a3a;
+    }
+    .body-text{
+      font-size: 16px;
+      color:#75BDBB; 
+    }
+    .body-text:hover{
+      color:#3a3a3a;
+      transition: 0.42s;
+    }
+    .published{
+      color:#75BDBB;
+      font-size:16px;
+    }
+    .about-video{
+      color:#3a3a3a;
+      text-decoration: none !important;
+      font-size:26px;
+    }
+    .about-video2{
+      font-size: 16px;
+      color:#3a3a3a;
+    }
+    .desc{
+      color:#75BDBB;
+    }
+    
+    .footer ul li a , .footer ul li {
+      list-style: none;
+      color:#B2B2B2; 
+      text-decoration: none;
+      font-size:16px;
+      padding-left:10px;
+    }
+    .footer ul li a:hover{
+      color:rgb(223, 70, 95);
+    }
+    .footer{
+      background-color: black;
+      transition: 0.42s;
+    }
+    .footer-container{
+      background-color: #403e3e;
+    }
